@@ -8,7 +8,11 @@ public class Rough {
 
 //        System.out.println((236+754)%8);
 
-        System.out.println(Math.abs((2-6)%8));
-        System.out.println(Math.abs((2-6)/8));
+//        System.out.println(Math.abs((2-6)%8));
+//        System.out.println(Math.abs((2-6)/8));
+
+//        if('c' == 'C') System.out.println(true);
+//        else System.out.println(false);
+
     }
 }
